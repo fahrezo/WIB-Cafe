@@ -1,2 +1,2 @@
 # WIB-Cafe
-A web based body exercise-pedia to train your body with subsribtion and personal Trainer feature
+A web based food ordering app, to manage order & transaction for both customer and user
